@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Grocery Shopping",
+    "description": "Buy milk, eggs, bread, and cheese from the supermarket.",
+    "dueDate": "2024-03-10",
+    "priority": "HIGH",
+    "completed": false,
+    "user": {
+      "id": 1,
+      "username": "john.doe",
+      "email": "john.doe@example.com"
+    }
+  },
+  {
+    "title": "Book Doctor Appointment",
+    "description": "Schedule a check-up appointment with Dr. Smith.",
+    "dueDate": "2024-03-15",
+    "priority": "MEDIUM",
+    "completed": false,
+    "user": {
+      "id": 2,
+      "username": "jane.smith",
+      "email": "jane.smith@example.com"
+    }
+  },
+  {
+    "title": "Finish Project Report",
+    "description": "Complete the final report for the marketing project.",
+    "dueDate": "2024-03-20",
+    "priority": "HIGH",
+    "completed": true,
+    "user": {
+      "id": 1,
+      "username": "john.doe",
+      "email": "john.doe@example.com"
+    }
+  },
+  {
+    "title": "Pay Bills",
+    "description": "Pay electricity, internet, and water bills.",
+    "dueDate": "2024-03-25",
+    "priority": "MEDIUM",
+    "completed": false,
+    "user": {
+      "id": 2,
+      "username": "jane.smith",
+      "email": "jane.smith@example.com"
+    }
+  },
+  {
+    "title": "Plan Weekend Trip",
+    "description": "Research and book a weekend getaway to the mountains.",
+    "dueDate": "2024-03-28",
+    "priority": "LOW",
+    "completed": false,
+    "user": {
+      "id": 1,
+      "username": "john.doe",
+      "email": "john.doe@example.com"
+    }
+  }
+]
